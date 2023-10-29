@@ -1,0 +1,1 @@
+{"version":3,"file":"mongoConnect.js","sourceRoot":"","sources":["../../src/mongoConnect.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,wDAAgC;AAEhC,SAAe,OAAO,CAAC,GAAW;;QAChC,IAAI;YACF,MAAM,kBAAQ,CAAC,OAAO,CAAC,GAAG,CAAC,CAAC;YAC5B,OAAO,CAAC,GAAG,CAAC,wBAAwB,CAAC,CAAC;SAEvC;QAAC,OAAO,GAAG,EAAE;YACZ,OAAO,CAAC,GAAG,CAAC,0BAA0B,CAAC,CAAC;SACzC;IACH,CAAC;CAAA;AAEM,0BAAO"}
