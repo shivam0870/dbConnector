@@ -1,0 +1,22 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "tsc && mocha dist/test/**/*spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai": "^4.3.9",
+    "@types/mocha": "^10.0.3",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
